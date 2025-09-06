@@ -411,7 +411,7 @@ constant is `MaxLength` (not `MAX_LENGTH`) if exported and `maxLength` (not
 Local variables are considered [unexported] for the purpose of choosing the
 initial capitalization.
 > [!TIP]
-> This imply that — For single-word name, it use Mixed or mixed. For further detail, it depend on the further detail. Because we have seen the implication is used in this style guide example and in go source code.
+> This imply that — For single-word name, it use `Mixed` or `mixed`. For further detail, it depend on the further detail. Because we have seen the implication is used in this style guide example and in go source code.
 
 <!--#include file="/go/g3doc/style/includes/special-name-exception.md"-->
 
